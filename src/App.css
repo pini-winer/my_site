@@ -1,0 +1,189 @@
+body{
+  font-family: sans-serif;
+  
+}
+body a{
+  text-decoration: none;
+  
+}
+.App{
+background-color:rgb(255, 194, 166);
+
+}
+
+
+
+
+#idborder {
+  min-height:750px ;
+  background-color:rgb(227, 176, 152);
+  
+}
+
+
+nav  a{
+ color: black;
+ font-weight: bolder;
+ font-size: 170%;
+ font-family: 'Courier New', Courier, monospace;
+ text-decoration:none ;
+ transition: 1001ms;
+ 
+}
+
+
+
+nav  a:hover{
+  color:rgb(226, 179, 159) ;
+  
+ transform: scale(1.04,1.04);
+  transition-duration:900ms;
+
+}
+
+ nav .link{
+  position: relative;
+  background: transparent;
+}
+
+
+nav .link:hover .pop_up{
+  display: block;
+}
+
+
+nav .link .pop_up a{
+  display: block;
+}
+
+
+
+hr{
+  width: 200px;
+}
+#skillid{
+ 
+  font-size: x-large;
+}
+
+
+
+
+ 
+main{
+  color:rgb(51, 39, 42);
+  font-family: 'Courier New', Courier, monospace;
+  font-weight:bold ;
+}
+main span{
+ font-size: 170%;
+  
+}
+
+main #fadwon{
+  color:#955f3e;
+  font-size:30px ;
+  transition: all;
+  transition-duration: 0.7s;
+}
+main #fadwon:hover{
+margin-top: 6px; 
+
+
+}
+.picw{
+    width: 300px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.bigName{
+  font-family: Lucida Handwriting;
+color:#77513A;
+}
+
+.workid{
+  min-height: 130px;
+  min-width: 180px;
+  background-color:rgba(103, 76, 63, 0.498) ;
+}
+.workid:hover{
+  color: rgb(161, 94, 94);
+  background-color: rgba(63, 59, 59, 0.089);
+ 
+}
+
+
+
+.workid img{
+  filter: blur(4px);
+  border-radius: 50%;
+  filter: grayscale(50%);
+width: 25%;
+ 
+}
+
+.workid img:hover{
+  filter: blur(0px);
+  border-radius: 0%;
+  filter: grayscale(0%);
+ transform: scale(1.04,1.04);
+  transition-duration:900ms;
+
+
+}
+.skils{
+  background-image: url(https://i.giphy.com/media/MuHJduQxqQYEDsRjjT/200w.webp);
+  background-size: cover;
+  font-weight: 900;
+  
+  color: transparent;
+  -moz-background-clip: text;
+  -webkit-background-clip: text;
+  text-transform: uppercase;
+  font-size: 170%;
+  margin: 10px 0;
+}
+
+
+@media (max-width:768px) {
+  .nav_bar {
+    display: none;
+  }
+
+  #burgerid {
+    /* display: block; */
+    color: #885E42;
+  }
+
+  .nav_mob {
+    position: absolute ;
+    /* right:0; */
+    /* top:100px; */
+    width: 100%;
+
+    background: rgb(253, 229, 218);
+    /* background:  #F2EFEB; */
+    /* display: none; */
+    /* transform: translate(-1%,-1%); */
+    transition: 2000ms;
+  }
+
+  .nav_mob a {
+    display: block;
+    padding: 12px;
+    border-bottom: 1px solid rgb(113, 99, 62);
+
+    animation-delay: 20ms;
+    animation-duration: 10ms;
+  }
+
+  .nav_mob a:hover {
+    background-color: rgb(253, 229, 218);
+
+    transform: scale(1.2);
+  }
+  .side{
+    display: none;
+  }
+}
