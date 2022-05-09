@@ -1,0 +1,99 @@
+#contactid{
+    min-height: 600px;
+}
+
+ #FaGithub2id {
+    color:#1a1818e3;
+    text-shadow: 2px 2px 2px #ce5937;
+    font-size: 24px;
+  
+   
+  
+  }
+ #FaLinkedin2id {
+    color: #1a1818e3;
+    text-shadow: 2px 2px 2px #ce5937;
+    font-size: 24px;
+ 
+
+   
+   
+  
+  }
+   #FaWhatsapp2id {
+    color: #1a1818e3;
+    text-shadow: 2px 2px 2px #ce5937;
+    font-size: 24px;
+   
+   
+  
+  }
+   #FaPhone2 {
+    color: #1a1818e3;
+    text-shadow: 2px 2px 2px #ce5937;
+    font-size: 24px;
+    
+    right: 65px;
+    bottom: 700px;
+   
+  
+  }
+
+   #FaPhone2id {
+    color: #1a1818e3;
+    text-shadow: 2px 2px 2px #ce5937;
+    font-size: 24px;
+    
+    right: 15px;
+    bottom: 500px;
+   
+    
+    /* height: 10px; */
+  }
+  
+ 
+  #touchid{
+    color: #885E42;
+   font-style: italic;
+    letter-spacing: .1em;
+    text-shadow: 0 -1px 0 #fff, 0 1px 0 #2e2e2e, 0 2px 0 #2c2c2c, 0 3px 0 #2a2a2a, 0 4px 0 #282828, 0 5px 0 #262626, 0 6px 0 #242424, 0 7px 0 #222, 0 8px 0 #202020, 0 9px 0 #1e1e1e, 0 10px 0 #1c1c1c, 0 11px 0 #1a1a1a, 0 12px 0 #181818, 0 13px 0 #161616, 0 14px 0 #141414, 0 15px 0 #121212, 0 22px 30px rgba(0,0,0,0.9);
+    color: #885E42;
+    /* background: rgba(180, 176, 174, 0.514) ; */
+    /* background-image: url("img4.jpeg"); */
+    border-radius: 20px;
+
+  }
+
+
+
+  #contactid a{
+    color:rgb(51, 39, 42);
+    font-weight: bolder;
+    /* font-size: 170%; */
+    /* font-family: 'Courier New', Courier, monospace; */
+    text-decoration:none ;
+    transition: 1001ms;
+    padding: 8px;
+    
+   }
+ 
+  
+
+  
+
+ 
+  
+
+
+
+  .icon:hover{
+    transform: scale(1.5,1.5);
+    transition-duration:900ms;
+  }
+
+  
+/* 
+  .vl {
+    border-left: 6px solid rgb(72, 75, 72);
+    height: 10px;
+  } */

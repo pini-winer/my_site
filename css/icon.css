@@ -1,0 +1,123 @@
+
+  
+
+  
+
+body a #FaGithubid {
+    color:#885E42;
+    text-shadow: 2px 2px 2px #ce5937;
+    font-size: 35px;
+    position: fixed;
+    right: 65px;
+    bottom: 300px;
+   
+  
+  }
+  body a #FaLinkedinid {
+    color: #885E42;
+    text-shadow: 2px 2px 2px #ce5937;
+    font-size: 35px;
+    position: fixed;
+    right: 65px;
+    bottom: 200px;
+   
+   
+  
+  }
+  body a #FaWhatsappid {
+    color: #885E42;
+    text-shadow: 2px 2px 2px #ce5937;
+    font-size: 35px;
+    position: fixed;
+    right: 65px;
+    bottom: 400px;
+   
+  
+  }
+  body a #FaPhone {
+    color: #885E42;
+    text-shadow: 2px 2px 2px #ce5937;
+    font-size: 35px;
+    position: fixed;
+    right: 65px;
+    bottom: 700px;
+   
+  
+  }
+  body a #Faenvelopeid {
+    color: #885E42;
+    text-shadow: 2px 2px 2px #ce5937;
+    font-size: 35px;
+    position: fixed;
+    right: 65px;
+    bottom: 300px;
+   
+  
+  }
+  body a #FaPhoneid {
+    color: #885E42;
+    text-shadow: 2px 2px 2px #ce5937;
+    font-size: 35px;
+    position: fixed;
+    right: 65px;
+    bottom: 500px;
+   
+  
+  }
+  body a #topid {
+    color: #885E42;
+    text-shadow: 2px 2px 2px #ce5937;
+    font-size: 35px;
+    position: fixed;
+    right:35px;
+    bottom: 50px;
+   
+  
+  }
+
+  body a #vertiid {
+    color: #885E42;
+    writing-mode: vertical-rl;
+    
+    /* text-shadow: 2px 2px 2px #ce5937; */
+    font-size: 14px;
+    position: fixed;
+    right:63px;
+    top:4%;
+    transition:all
+   
+  
+  }
+  body a #vertiid:hover {
+    color: #885E42;
+    writing-mode: vertical-rl;
+    
+    /* text-shadow: 2px 2px 2px #ce5937; */
+    font-size: 14px;
+    position: fixed;
+    right:63px;
+    top:8%;
+    transition-duration: 0.5s;
+  
+  }
+  body a #vertiid span:hover {
+   color: #d4c42dce;
+  
+  }
+  
+
+  #shtruid{
+    font-size: 28px;
+    color: #b86630;
+  }
+  
+
+
+
+  body a .icon:hover{
+    transform: scale(1.5,1.5);
+    transition-duration:900ms;
+  }
+
+  
+
